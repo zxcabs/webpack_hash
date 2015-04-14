@@ -2,7 +2,7 @@
   "name": "hello-world",
   "dependencies": {
     "file-loader": "^0.8.1",
-    "style-loader": "git+https://github.com/zxcabs/style-loader.git#relative_path",
+    "style-loader": "git+https://github.com/zxcabs/style-loader.git#v0.10.1-tf0",
     "webpack": "1.8"
   },
   "engine": "0.12"
